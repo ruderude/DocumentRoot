@@ -1,0 +1,15 @@
+{
+    "name": "kunshi/document-root",
+    "authors": [
+        {
+            "name": "ruderude",
+            "email": "rude1979@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
